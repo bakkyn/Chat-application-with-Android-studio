@@ -81,6 +81,7 @@ I set the pages. Since it will be done with the operations to be done here, I cr
 
 Menu window in the application (All users, Log out)<br>
 
+----------------------------------------------------------------------------------------------------------------
 <b>Cannot resolve method' add OnCompletionListener () '…'</b> error as a result of these actionsgot it.
 
 I found the appropriate solution for the problem. I used this in toast messages in previous if and else-if but OnCompleteListener cannot be used in the contents. Because the createNewAccount method is activityde context 
