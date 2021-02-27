@@ -3,7 +3,7 @@
 This project involves making the basic design for a chat application. The processes were made using Android studio. <br>
 The file layout within the scope of the project is as follows. <br>
 
-<img src="https://github.com/bakkyn/Chat-application-with-Android-studio/blob/main/results/1.png" alt="" width="200" height="200" style="float:left">
+<img src="https://github.com/bakkyn/Chat-application-with-Android-studio/blob/main/results/1.png" alt="" style="float:left">
 
 
 Android studio file structure is more complicated than usual .app folder module. Build contains bulild files. Libs maintain libraries. The src folder contains the Java, res, and AndroidManifest files. Build.gradle each
