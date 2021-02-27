@@ -10,8 +10,6 @@ one for the module and one for the whole project.
 
 This project was my first time working with Android Studio and I must say that I was dealing with errors rather than coding the project. You have to be very patient at this stage :D Take a deep breath and and turn on a long relaxing rain background music, because you may need to try to find solutions by searching for errors on all platforms you can find.
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfn3-OJuXVoMFUjqSz8MUUAL3ipVpmBQ19Vg&usqp=CAU" alt="" width="100" height="100">
-
 That's why I tried to explain all the steps for beginners like me as descriptively while sharing this project.
 
 -----------------------------------------------------------------------------------------------------------------
